@@ -1,4 +1,4 @@
-# Terraform-Learning
-Terraform on GCP
+# Demo-Learning
+Demo on GCP
 <br>
 Author - Anmol Sharma
